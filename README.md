@@ -1,5 +1,5 @@
 # Cyber-Bullying-tweet-analysis
-This is a project that I have made with my classmates for our second semester project in my Msc.
+An academic mini group-project involving data analysis, visualization and machine learning. 
 
 This project contains a data set of 47000+ tweets that have been classified on the basis of six types of cyber bullying.
 The classifications are:
